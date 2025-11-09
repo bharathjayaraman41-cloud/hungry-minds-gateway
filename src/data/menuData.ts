@@ -26,7 +26,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 2,
     name: "Filter Coffee",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/filter-coffee.jpg",
     category: "beverages",
     price: 25,
     chefName: "Arjun Patel",
@@ -37,7 +37,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 3,
     name: "Masala Chai",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/masala-chai.jpg",
     category: "beverages",
     price: 20,
     chefName: "Rajesh Singh",
@@ -47,7 +47,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 4,
     name: "Fresh Lime Soda",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/lime-soda.jpg",
     category: "beverages",
     price: 30,
     chefName: "Mei Wong",
@@ -57,7 +57,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 5,
     name: "Buttermilk",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/buttermilk.jpg",
     category: "beverages",
     price: 20,
     chefName: "Anita Desai",
@@ -67,7 +67,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 6,
     name: "Rose Milk",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/rose-milk.jpg",
     category: "beverages",
     price: 35,
     chefName: "Mei Wong",
@@ -77,7 +77,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 7,
     name: "Badam Milk",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/badam-milk.jpg",
     category: "beverages",
     price: 40,
     chefName: "Arjun Patel",
@@ -87,7 +87,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 8,
     name: "Ginger Tea",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/ginger-tea.jpg",
     category: "beverages",
     price: 15,
     chefName: "Rajesh Singh",
@@ -97,7 +97,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 9,
     name: "Coconut Water",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/coconut-water.jpg",
     category: "beverages",
     price: 30,
     chefName: "Anita Desai",
@@ -107,7 +107,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 10,
     name: "Lemon Tea",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/lemon-tea.jpg",
     category: "beverages",
     price: 20,
     chefName: "Xiao Chen",
@@ -152,7 +152,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 14,
     name: "Chole Bhature",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chole-bhature.jpg",
     category: "veg",
     price: 70,
     chefName: "Rajesh Singh",
@@ -162,7 +162,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 15,
     name: "Palak Paneer",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/palak-paneer.jpg",
     category: "veg",
     price: 100,
     chefName: "Anita Desai",
@@ -172,7 +172,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 16,
     name: "Aloo Paratha",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/aloo-paratha.jpg",
     category: "veg",
     price: 50,
     chefName: "Suresh Kumar",
@@ -182,7 +182,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 17,
     name: "Veg Fried Rice",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/veg-fried-rice.jpg",
     category: "veg",
     price: 85,
     chefName: "Xiao Chen",
@@ -192,7 +192,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 18,
     name: "Dal Tadka",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/dal-tadka.jpg",
     category: "veg",
     price: 70,
     chefName: "Rajesh Singh",
@@ -202,7 +202,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 19,
     name: "Pav Bhaji",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/pav-bhaji.jpg",
     category: "veg",
     price: 75,
     chefName: "Arjun Patel",
@@ -212,7 +212,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 20,
     name: "Idli Sambar",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/idli-sambar.jpg",
     category: "veg",
     price: 45,
     chefName: "Anita Desai",
@@ -222,7 +222,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 21,
     name: "Veg Pulao",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/veg-pulao.jpg",
     category: "veg",
     price: 70,
     chefName: "Lei Zhang",
@@ -232,7 +232,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 22,
     name: "Paneer Butter Masala",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/paneer-butter-masala.jpg",
     category: "veg",
     price: 110,
     chefName: "Rajesh Singh",
@@ -242,7 +242,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 23,
     name: "Mushroom Masala",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/mushroom-masala.jpg",
     category: "veg",
     price: 95,
     chefName: "Suresh Kumar",
@@ -252,7 +252,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 24,
     name: "Veg Manchurian",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/veg-manchurian.jpg",
     category: "veg",
     price: 90,
     chefName: "Xiao Chen",
@@ -262,7 +262,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 25,
     name: "Gobi Paratha",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/gobi-paratha.jpg",
     category: "veg",
     price: 55,
     chefName: "Anita Desai",
@@ -285,7 +285,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 27,
     name: "Chicken Biryani",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chicken-biryani.jpg",
     category: "nonveg",
     price: 130,
     chefName: "Lei Zhang",
@@ -296,7 +296,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 28,
     name: "Fish Fry",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/fish-fry.jpg",
     category: "nonveg",
     price: 140,
     chefName: "Suresh Kumar",
@@ -306,7 +306,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 29,
     name: "Egg Curry",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/egg-curry.jpg",
     category: "nonveg",
     price: 80,
     chefName: "Arjun Patel",
@@ -316,7 +316,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 30,
     name: "Chicken Tikka",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chicken-tikka.jpg",
     category: "nonveg",
     price: 160,
     chefName: "Rajesh Singh",
@@ -326,7 +326,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 31,
     name: "Mutton Curry",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/mutton-curry.jpg",
     category: "nonveg",
     price: 180,
     chefName: "Suresh Kumar",
@@ -336,7 +336,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 32,
     name: "Chicken Fried Rice",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chicken-fried-rice.jpg",
     category: "nonveg",
     price: 110,
     chefName: "Xiao Chen",
@@ -346,7 +346,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 33,
     name: "Prawn Masala",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/prawn-masala.jpg",
     category: "nonveg",
     price: 200,
     chefName: "Mei Wong",
@@ -356,7 +356,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 34,
     name: "Chicken Kebab",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chicken-kebab.jpg",
     category: "nonveg",
     price: 145,
     chefName: "Rajesh Singh",
@@ -366,7 +366,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 35,
     name: "Egg Biryani",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/egg-biryani.jpg",
     category: "nonveg",
     price: 90,
     chefName: "Lei Zhang",
@@ -376,7 +376,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 36,
     name: "Fish Curry",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/fish-curry.jpg",
     category: "nonveg",
     price: 150,
     chefName: "Suresh Kumar",
@@ -386,7 +386,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 37,
     name: "Chicken Chilli",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chicken-chilli.jpg",
     category: "nonveg",
     price: 135,
     chefName: "Xiao Chen",
@@ -396,7 +396,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 38,
     name: "Mutton Biryani",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/mutton-biryani.jpg",
     category: "nonveg",
     price: 170,
     chefName: "Lei Zhang",
@@ -406,7 +406,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 39,
     name: "Chicken Korma",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chicken-korma.jpg",
     category: "nonveg",
     price: 155,
     chefName: "Rajesh Singh",
@@ -416,7 +416,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 40,
     name: "Egg Omelette",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/egg-omelette.jpg",
     category: "nonveg",
     price: 40,
     chefName: "Arjun Patel",
@@ -439,7 +439,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 42,
     name: "Vada Pav",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/vada-pav.jpg",
     category: "snacks",
     price: 35,
     chefName: "Suresh Kumar",
@@ -449,7 +449,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 43,
     name: "Pakora",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/pakora.jpg",
     category: "snacks",
     price: 40,
     chefName: "Anita Desai",
@@ -459,7 +459,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 44,
     name: "Spring Roll",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/spring-roll.jpg",
     category: "snacks",
     price: 50,
     chefName: "Xiao Chen",
@@ -469,7 +469,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 45,
     name: "Bread Pakoda",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/bread-pakoda.jpg",
     category: "snacks",
     price: 35,
     chefName: "Rajesh Singh",
@@ -479,7 +479,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 46,
     name: "Cutlet",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/cutlet.jpg",
     category: "snacks",
     price: 45,
     chefName: "Mei Wong",
@@ -489,7 +489,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 47,
     name: "Pani Puri",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/pani-puri.jpg",
     category: "snacks",
     price: 40,
     chefName: "Anita Desai",
@@ -499,7 +499,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 48,
     name: "Bhel Puri",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/bhel-puri.jpg",
     category: "snacks",
     price: 35,
     chefName: "Suresh Kumar",
@@ -509,7 +509,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 49,
     name: "Aloo Bonda",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/aloo-bonda.jpg",
     category: "snacks",
     price: 30,
     chefName: "Arjun Patel",
@@ -519,7 +519,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 50,
     name: "Corn Patties",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/corn-patties.jpg",
     category: "snacks",
     price: 50,
     chefName: "Mei Wong",
@@ -529,7 +529,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 51,
     name: "Cheese Sandwich",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/cheese-sandwich.jpg",
     category: "snacks",
     price: 60,
     chefName: "Xiao Chen",
@@ -539,7 +539,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 52,
     name: "Veg Puff",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/veg-puff.jpg",
     category: "snacks",
     price: 35,
     chefName: "Rajesh Singh",
@@ -549,7 +549,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 53,
     name: "French Fries",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/french-fries.jpg",
     category: "snacks",
     price: 50,
     chefName: "Mei Wong",
@@ -559,7 +559,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 54,
     name: "Paneer Pakora",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/paneer-pakora.jpg",
     category: "snacks",
     price: 60,
     chefName: "Anita Desai",
@@ -569,7 +569,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 55,
     name: "Masala Peanuts",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/masala-peanuts.jpg",
     category: "snacks",
     price: 25,
     chefName: "Suresh Kumar",
@@ -579,7 +579,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 56,
     name: "Onion Rings",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/onion-rings.jpg",
     category: "snacks",
     price: 55,
     chefName: "Xiao Chen",
@@ -589,7 +589,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 57,
     name: "Nachos",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/nachos.jpg",
     category: "snacks",
     price: 70,
     chefName: "Mei Wong",
@@ -599,7 +599,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 58,
     name: "Chilli Paneer",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/chilli-paneer.jpg",
     category: "snacks",
     price: 95,
     chefName: "Xiao Chen",
@@ -609,7 +609,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 59,
     name: "Medu Vada",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/medu-vada.jpg",
     category: "snacks",
     price: 40,
     chefName: "Anita Desai",
@@ -619,7 +619,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 60,
     name: "Potato Wedges",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/potato-wedges.jpg",
     category: "snacks",
     price: 55,
     chefName: "Suresh Kumar",
@@ -629,7 +629,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 61,
     name: "Banana Chips",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/banana-chips.jpg",
     category: "snacks",
     price: 30,
     chefName: "Anita Desai",
@@ -639,7 +639,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 62,
     name: "Dhokla",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/dhokla.jpg",
     category: "snacks",
     price: 45,
     chefName: "Arjun Patel",
@@ -649,7 +649,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 63,
     name: "Kachori",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/kachori.jpg",
     category: "snacks",
     price: 35,
     chefName: "Rajesh Singh",
@@ -659,7 +659,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 64,
     name: "Panipuri Shots",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/panipuri-shots.jpg",
     category: "snacks",
     price: 50,
     chefName: "Suresh Kumar",
@@ -669,7 +669,7 @@ export const menuItems: MenuItem[] = [
   {
     id: 65,
     name: "Mirchi Bajji",
-    image: "/api/placeholder/400/400",
+    image: "/src/assets/food/mirchi-bajji.jpg",
     category: "snacks",
     price: 40,
     chefName: "Anita Desai",
